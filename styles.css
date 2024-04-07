@@ -239,6 +239,7 @@ img {
 @media (max-width: 1000px) {
     .container {
         height: 100%;
+        margin-top: 6vh;
         margin-bottom: 20px;
     }
 
